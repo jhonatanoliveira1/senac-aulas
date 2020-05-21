@@ -1,0 +1,13 @@
+1) calcule a média de 3 numeros em variaveis dentro de array.
+
+2) Declare as variaveis em array:
+posição 2 = Domingo
+posição 1 = Sol
+posição 3 = não chove.
+usando o método de concatenar escreva a seguinte frase utilizando as palavras que estão no array:
+
+Neste Domingo não chove porque quero muito que saia o sol.
+
+
+
+ 
