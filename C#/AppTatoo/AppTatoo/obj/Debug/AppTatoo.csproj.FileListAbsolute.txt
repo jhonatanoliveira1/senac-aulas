@@ -1,0 +1,17 @@
+c:\users\marcus.fgfacine\documents\visual studio 2015\Projects\AppTatoo\AppTatoo\bin\Debug\AppTatoo.exe.config
+C:\Users\marcus.fgfacine\Documents\Visual Studio 2015\Projects\AppTatoo\AppTatoo\bin\Debug\BD_APPTATOO.mdf
+C:\Users\marcus.fgfacine\Documents\Visual Studio 2015\Projects\AppTatoo\AppTatoo\bin\Debug\BD_APPTATOO_log.ldf
+C:\Users\marcus.fgfacine\Documents\Visual Studio 2015\Projects\AppTatoo\AppTatoo\bin\Debug\AppTatoo.exe
+C:\Users\marcus.fgfacine\Documents\Visual Studio 2015\Projects\AppTatoo\AppTatoo\bin\Debug\AppTatoo.pdb
+C:\Users\marcus.fgfacine\Documents\Visual Studio 2015\Projects\AppTatoo\AppTatoo\obj\Debug\AppTatoo.csprojResolveAssemblyReference.cache
+C:\Users\marcus.fgfacine\Documents\Visual Studio 2015\Projects\AppTatoo\AppTatoo\obj\Debug\AppTatoo.Properties.Resources.resources
+C:\Users\marcus.fgfacine\Documents\Visual Studio 2015\Projects\AppTatoo\AppTatoo\obj\Debug\AppTatoo.csproj.GenerateResource.Cache
+C:\Users\marcus.fgfacine\Documents\Visual Studio 2015\Projects\AppTatoo\AppTatoo\obj\Debug\AppTatoo.exe
+C:\Users\marcus.fgfacine\Documents\Visual Studio 2015\Projects\AppTatoo\AppTatoo\obj\Debug\AppTatoo.pdb
+C:\Users\marcus.fgfacine\Documents\Visual Studio 2015\Projects\AppTatoo\AppTatoo\obj\Debug\AppTatoo.frm_Principal.resources
+C:\Users\marcus.fgfacine\Documents\Visual Studio 2015\Projects\AppTatoo\AppTatoo\obj\Debug\AppTatoo.frm_Especialidade.resources
+C:\Users\marcus.fgfacine\Documents\Visual Studio 2015\Projects\AppTatoo\AppTatoo\obj\Debug\AppTatoo.frm_Cliente.resources
+C:\Users\marcus.fgfacine\Documents\Visual Studio 2015\Projects\AppTatoo\AppTatoo\obj\Debug\AppTatoo.frm_Tema.resources
+C:\Users\marcus.fgfacine\Documents\Visual Studio 2015\Projects\AppTatoo\AppTatoo\obj\Debug\AppTatoo.frm_Turno.resources
+C:\Users\marcus.fgfacine\documents\visual studio 2015\Projects\AppTatoo\AppTatoo\obj\Debug\AppTatoo.frm_Tatuador.resources
+C:\Users\marcus.fgfacine\Documents\Visual Studio 2015\Projects\AppTatoo\AppTatoo\obj\Debug\AppTatoo.frm_Tatuagem.resources

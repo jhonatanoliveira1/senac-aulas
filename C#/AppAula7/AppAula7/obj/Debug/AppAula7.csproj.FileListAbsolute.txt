@@ -1,0 +1,6 @@
+c:\users\jhonatan.oliveira1\documents\visual studio 2015\Projects\AppAula7\AppAula7\bin\Debug\AppAula7.exe.config
+c:\users\jhonatan.oliveira1\documents\visual studio 2015\Projects\AppAula7\AppAula7\bin\Debug\AppAula7.exe
+c:\users\jhonatan.oliveira1\documents\visual studio 2015\Projects\AppAula7\AppAula7\bin\Debug\AppAula7.pdb
+c:\users\jhonatan.oliveira1\documents\visual studio 2015\Projects\AppAula7\AppAula7\obj\Debug\AppAula7.csprojResolveAssemblyReference.cache
+c:\users\jhonatan.oliveira1\documents\visual studio 2015\Projects\AppAula7\AppAula7\obj\Debug\AppAula7.exe
+c:\users\jhonatan.oliveira1\documents\visual studio 2015\Projects\AppAula7\AppAula7\obj\Debug\AppAula7.pdb
