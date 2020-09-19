@@ -1,0 +1,9 @@
+3.	De 4 números verifique qual é o maior número e exiba-o.
+
+4.	De 5 idades. Exiba quantas pessoas são maiores de idade (18 anos) e quantas são menores.
+
+5.	Crie um programa que entre com os dados de altura e sexo de 5 pessoas. Imprima na tela quantas pessoas são do sexo masculino e quantas pessoas são do sexo feminino. Mostre também qual é a maior altura e se essa altura é de um homem ou uma mulher.
+
+6.	Entre com varios nomes e exiba na tela todos os nomes digitados, porém de maneira invertida (do último para o primeiro).
+
+7.	Uma variavel de data. Exiba separadamente o dia, o mês e o ano. 

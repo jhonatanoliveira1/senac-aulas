@@ -1,0 +1,36 @@
+<doctype html>
+    <html>
+        <head>
+            <title>Validação de Campos com JavaScript </title>
+            <meta charset="utf8">
+            <script type="text/javascript">
+            function valida(){
+                var nome = user.nome.value;
+                var email = user.email.value;
+                var senha = user.senha.value;
+                if(nome==""){
+                    alert('Campo nome em branco, o preencha');
+                    user.nome.focus();
+                    return false;
+                }
+                if(email == "" || email.indexOf('@') == -1 ){
+                    alert('E-mail não é válido');
+                    user.email.focus();
+                    return false;
+                }
+                if(senha=="" || senha.length <=7){
+                    alert("Campo senha deve ter no minimo 8 caracteres");
+                    return falso;
+                }
+            }
+            </script>
+        </head>
+        <body>
+            <h2>Usuário - Cadastro</h2>
+            <form name="user" action="valida.html" method="post">
+                <label>Nome:<input type="text" name="nome" placeholder="Digite Seu Nome"></label> 
+                <label>E-mail<input type="text" name="email" placeholder="Email completo"></label>
+                <label>Senha<input type="text" name="senha" placeholder="minimo 8 caracteres"></label>
+                <input type="submit" onclick="return valida()">
+        </body>
+    </html>
